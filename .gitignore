@@ -1,5 +1,9 @@
 # I don't want to be sharing my tickets on GitHub!
 passes/
+*.pkpass
+
+# or the QR images I create with them
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
