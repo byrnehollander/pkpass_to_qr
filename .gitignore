@@ -1,3 +1,6 @@
+# I don't want to be sharing my tickets on GitHub!
+passes/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -99,3 +102,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Mac
+.DS_Store
